@@ -11,7 +11,6 @@ end
 
 def favorite_color(favorite_list)
   # return the value of the color key
-
   favorite_list[:color]
 end
 
