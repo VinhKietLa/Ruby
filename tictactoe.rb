@@ -13,7 +13,7 @@ class TicTacToe
           place_move(row, col)
           switch_player
         else
-          puts "Invalid move! Try again."
+          puts "Invalid move! Try again.."
         end
       end
       display_board
